@@ -99,3 +99,5 @@ Configure the `ChatbotService` with your OpenAI API key and customize the chat b
 ## If you find this package helpful then
 
 [Support Me](https://paypal.me/prayagdalal11?country.x=IN&locale.x=en_GB)
+[LinkedIn](https://www.linkedin.com/in/prayagdalal/)
+[X](https://x.com/prayag_dalal)
