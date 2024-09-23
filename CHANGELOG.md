@@ -1,21 +1,7 @@
-## [0.0.2] - 2024-08-10
+## [0.0.1] - 2024-09-23
 ### Added
-- Updated `README.md` with usage examples and features description.
-- Added real-time streaming and auto-scrolling features to the chat screen.
-- Improved documentation on how to implement a chatbot using the package.
-
-### Fixed
-- Minor bug fixes and improvements.
-
-
-## [0.0.3] - 2024-08-10
-### Fixed
-- Minor bug fixes and improvements.
-
-## [0.0.4] - 2024-08-10
-### Fixed
-- Minor bug fixes and improvements.
-
-## [0.0.5] - 2024-08-10
-### Fixed
-- Minor bug fixes and improvements.
+- Initial release of `gpt_chatbot` package.
+- Customizable chat interface using OpenAI's GPT models.
+- Support for real-time message streaming.
+- User and bot message bubble customization.
+- Easy integration with customizable system prompts and settings.

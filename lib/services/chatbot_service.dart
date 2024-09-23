@@ -76,7 +76,7 @@ class ChatbotService {
                   }
                 }
               } catch (e) {
-                print('Error parsing JSON: $e');
+                throw Exception('Streaming error: ${e.toString()}');
               }
             }
           }

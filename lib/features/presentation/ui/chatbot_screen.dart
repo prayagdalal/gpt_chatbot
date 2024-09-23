@@ -68,7 +68,6 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
         // Inside your stream listener
         stream.listen(
           (content) {
-            print('Received chunk: $content'); // Debugging output
             setState(() {
               final index = _messages.length - 1;
               final currentMessage = _messages[index];
@@ -85,9 +84,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
           onError: (error) {
             _showErrorSnackbar('Error: ${error.toString()}');
           },
-          onDone: () {
-            print("Streaming complete");
-          },
+          onDone: () {},
         );
       } catch (e) {
         // Show snackbar for errors
