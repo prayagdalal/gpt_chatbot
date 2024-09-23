@@ -61,7 +61,8 @@ class MyChatScreen extends StatelessWidget {
 
 ## Demo
 
-![Screen Recording] ![Screen_Recording_20240923-160908 (2)](https://github.com/user-attachments/assets/f51a1b20-ccd4-462f-b2d7-d56fc0f6507a)
+![Output 1] ![Screen_Recording_20240923-160908 (2)](https://github.com/user-attachments/assets/f51a1b20-ccd4-462f-b2d7-d56fc0f6507a)
+![Output 2](https://github.com/user-attachments/assets/3b66ab59-b282-4a6b-8c60-9772c8fd6bb9)
 
 
 ## API Documentation
