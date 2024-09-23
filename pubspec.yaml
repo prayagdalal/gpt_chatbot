@@ -1,0 +1,22 @@
+name: gpt_chatbot
+description: "A Flutter package to easily integrate OpenAI's GPT-based chat functionality into your apps."
+version: 0.0.1
+homepage: https://github.com/prayagdalal/smartchat_flutter
+repository: https://github.com/prayagdalal/smartchat_flutter
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  # You can add assets or fonts here in the future if needed.
