@@ -17,7 +17,7 @@ Add `gpt_chatbot` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  gpt_chatbot: ^0.0.1
+  gpt_chatbot: ^0.0.2
 ```
 
 ## Usage
