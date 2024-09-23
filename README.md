@@ -96,7 +96,7 @@ class MyChatScreen extends StatelessWidget {
 
 Configure the `ChatbotService` with your OpenAI API key and customize the chat behavior by adjusting parameters like `systemPrompt`, `temperature`, `maxTokens`, and `model`.
 
-## If you find this package helpful then
+## If You Find This Package Helpful
 
 [Support Me](https://paypal.me/prayagdalal11?country.x=IN&locale.x=en_GB) | 
 [LinkedIn](https://www.linkedin.com/in/prayagdalal/) | 
