@@ -1,4 +1,3 @@
-![Screen_Recording_20240923-160908 (2)](https://github.com/user-attachments/assets/deb77cb5-595e-40cc-b51b-41887d5fbad7)
 # GPT Chatbot Flutter
 
 `gpt_chatbot` is a highly customizable and easy-to-use Flutter package that enables developers to integrate a smart chat interface powered by OpenAI's GPT models into their Flutter applications. The package provides a ready-made chat UI and handles interaction with the GPT API, allowing you to create intelligent conversational agents with minimal effort.
@@ -61,7 +60,7 @@ class MyChatScreen extends StatelessWidget {
 
 ## Demo
 
-![Output 1] ![Screen_Recording_20240923-160908 (2)](https://github.com/user-attachments/assets/f51a1b20-ccd4-462f-b2d7-d56fc0f6507a)
+![Output 1](https://github.com/user-attachments/assets/f51a1b20-ccd4-462f-b2d7-d56fc0f6507a)
 ![Output 2](https://github.com/user-attachments/assets/3b66ab59-b282-4a6b-8c60-9772c8fd6bb9)
 
 
