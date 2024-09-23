@@ -63,6 +63,12 @@ class MyChatScreen extends StatelessWidget {
 ![Output 1](https://github.com/user-attachments/assets/f51a1b20-ccd4-462f-b2d7-d56fc0f6507a)
 ![Output 2](https://github.com/user-attachments/assets/3b66ab59-b282-4a6b-8c60-9772c8fd6bb9)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/mdazharuddin1011999/UPI-Plugin-Flutter/raw/master/images/success.jpg" alt="Success Status" width="200"></td>
+    <td><img src="https://github.com/mdazharuddin1011999/UPI-Plugin-Flutter/raw/master/images/show.gif" alt="How example looks" width="200"></td>
+  </tr>
+</table>
 
 ## API Documentation
 
