@@ -1,4 +1,4 @@
-# GPT Chatbot Flutter
+# GPT Chatbot
 
 `gpt_chatbot` is a highly customizable and easy-to-use Flutter package that enables developers to integrate a smart chat interface powered by OpenAI's GPT models into their Flutter applications. The package provides a ready-made chat UI and handles interaction with the GPT API, allowing you to create intelligent conversational agents with minimal effort.
 
