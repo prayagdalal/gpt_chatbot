@@ -17,7 +17,7 @@ Add `gpt_chatbot` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  gpt_chatbot: ^0.0.2
+  gpt_chatbot: ^0.0.3
 ```
 
 ## Usage
@@ -61,8 +61,8 @@ class MyChatScreen extends StatelessWidget {
 ## Demo
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f51a1b20-ccd4-462f-b2d7-d56fc0f6507a" alt="Output 1" width="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/3b66ab59-b282-4a6b-8c60-9772c8fd6bb9" alt="Output 2" width="350"></td>
+    <td><img src="assets/output1.gif" alt="Output 1" width="350"></td>
+    <td><img src="assets/output2.gif" alt="Output 2" width="350"></td>
   </tr>
 </table>
 

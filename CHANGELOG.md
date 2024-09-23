@@ -10,3 +10,8 @@
 ## [0.0.2] - 2024-09-23
 ### Updated
 - Modified documentation of the package.
+
+
+## [0.0.3] - 2024-09-23
+### Updated
+- Added demo GIF in documentation.
