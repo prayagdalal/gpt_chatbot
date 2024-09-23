@@ -100,5 +100,4 @@ Configure the `ChatbotService` with your OpenAI API key and customize the chat b
 
 [Support Me](https://paypal.me/prayagdalal11?country.x=IN&locale.x=en_GB) | 
 [LinkedIn](https://www.linkedin.com/in/prayagdalal/) | 
-[X](https://x.com/prayag_dalal) | 
-[Have a Project?](https://calendly.com/prayagdalal1111/30min) 
+[X](https://x.com/prayag_dalal)
